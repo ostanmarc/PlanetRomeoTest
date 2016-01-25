@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlanetRomeoTest</string>
+    <string name="error_querry_is_invalid">Make sure you have entered a querry word</string>
+    <string name="error_fetching_images">Error in fetching images \nPlease try again later</string>
+    <string name="btn_text_search">Search!</string>
+    <string name="et_search_hint">Enter your querry</string>
+    <string name="pleaseWait">pleaseWait</string>
+    <string name="webpage_being_loaded">webpage_being_loaded</string>
+    <string name="hello">Hello World, ListSample!</string>
+    <string name="empty_list_item">Search for images to see them</string>
+
+
+</resources>
